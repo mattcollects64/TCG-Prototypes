@@ -1,5 +1,5 @@
 # Change baseurl before deploy
-baseurl = "https://www.tcgprototypes.com"
+baseurl = "https://tcgprototypes.com"
 languageCode = "en-us"
 title = "TCG Prototypes"
 
