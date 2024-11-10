@@ -28,37 +28,48 @@ I want to make a single post that explains every main category of the pre-releas
 ---
 
 ## Alpha Prototype (1995)
-The Alpha Prototype cards were produced in 1995, and are currently the earliest form of real test/demo of what a Pokemon TCG could actually look like (excluding the Seadra Proof of Concept card since it was a one off).
+The Alpha Prototype cards were produced in 1995, and are currently the earliest form of real test/demo of what a Pokemon TCG could actually look like (excluding the Seadra Proof of Concept card since it was a one off).  
+
+<div style="display: flex; gap: 10px;">
+    <img src="images/AlphaPrototype.webp" alt="Alpha Prototype - Front" style="width: 48%;">
+    <img src="images/AlphaPrototype_R.webp" alt="Alpha Prototype - Back" style="width: 48%;">
+</div>
+
  - Set includes 26 Pokemon
  - Printed on thick card stock (apparently thicker than normal TCG cards)
  - Used flipped sprites from the GameBoy games for the Pokemon
  - Are black and white
  - Nothing on the back of the card.
-<div style="display: flex; gap: 10px;">
-    <img src="images/AlphaPrototype.webp" alt="Alpha Prototype - Front" style="width: 48%;">
-    <img src="images/AlphaPrototype_R.webp" alt="Alpha Prototype - Back" style="width: 48%;">
-</div>
+
 
 
 ---
 
 ## Alpha Playtest (1996)
 The Alpha Playtest cards are much closer to what you are familiar with seeing from the Pokemon TCG. They feature art from Ken Sugimori and only include Pokemon and Trainer cards from the Base Set.
+
+<div style="display: flex; gap: 10px;">
+    <img src="images/AlphaPlaytest.webp" alt="Alpha Playtest - Front" style="width: 48%;">
+    <img src="images/AlphaPlaytest_R.webp" alt="Alpha Playtest - Back" style="width: 48%;">
+</div>
+
  - Set includes Base Set Pokemon and Trainer cards
  - Printed on paper and then stuck to card stock
  - Art is now illustrations by Ken Sugimori
  - Artwork has no backgound (with the exception of Porygon)
  - Cards are in color (background of card is a solid color)
  - Back of the card has a low-res, but colored version of the Pocket Monsters back design.
-<div style="display: flex; gap: 10px;">
-    <img src="images/AlphaPlaytest.webp" alt="Alpha Playtest - Front" style="width: 48%;">
-    <img src="images/AlphaPlaytest_R.webp" alt="Alpha Playtest - Back" style="width: 48%;">
-</div>
 
 ---
 
 ## Beta Playtest (1996)
 The Beta Playtest cards are the first time we see cards from the Fossil and Jungle Sets; all 151 Pokemon make an appearance in this testing phase. 
+
+<div style="display: flex; gap: 10px;">
+    <img src="images/BetaPlaytest.webp" alt="Beta Playtest - Front" style="width: 48%;">
+    <img src="images/BetaPlaytest_R.webp" alt="Beta Playtest - Back" style="width: 48%;">
+</div>
+
  - Set includes Trainer cards and all 151 Pokemon for the first time
  - Printed on paper and then stuck to card stock
  - Illustration credit misspells Ken Sugimori's name as "Sugimorori"
@@ -66,58 +77,64 @@ The Beta Playtest cards are the first time we see cards from the Fossil and Jung
  - Cards are in color (background of card is a solid color)
  - Back of the card has a low-res, but colored version of the Pocket Monsters back design.
  - Some Pokedex numbers may be wrong. Charizard for example shows incorrectly as No.005.
-<div style="display: flex; gap: 10px;">
-    <img src="images/BetaPlaytest.webp" alt="Beta Playtest - Front" style="width: 48%;">
-    <img src="images/BetaPlaytest_R.webp" alt="Beta Playtest - Back" style="width: 48%;">
-</div>
 
 ---
 
 ## Delta Playtest (1996)
 The Delta Playtest cards appear to only represent the starter Pokemon and their evolutions. At this time, no other Delta Playtest Pokemon have surfaced. 
- - Set includes only the starters and their evolutions.
- - Printed on paper and then stuck to card stock
- - Illustrations now by other artists and represent the art we eventually see when the cards release.
- - Artwork now has a background.
- - Cards are in color (background of card is a solid color)
- - Back of the card has a low-res, but colored version of the Pocket Monsters back design.
- - Some Pokedex numbers may be wrong. Charizard for example shows incorrectly as No.005.
+
 <div style="display: flex; gap: 10px;">
     <img src="images/DeltaPlaytest.webp" alt="Delta Playtest - Front" style="width: 48%;">
     <img src="images/DeltaPlaytest_R.webp" alt="Delta Playtest - Back" style="width: 48%;">
 </div>
 
+ - Set includes only the starters and their evolutions.
+ - Printed on paper and then stuck to card stock
+ - Illustrations now by Mitsuhiro Arita and Ken Sugimori (spelled correctly.
+ - Illustrations represent what we see in the official launch.
+ - Artwork has full character and background
+ - Cards are in color (background of card is a solid color)
+ - Back of the card has a low-res, but colored version of the Pocket Monsters back design.
+ - Some Pokedex numbers may be wrong. Charizard for example shows incorrectly as No.005.
+
 ---
 
 ## Alpha Presentation (1996)
 The Alpha Presentation cards appear to only represent a limited number of Pokemon: Venusaur, Charizard, Blastoise, pikachi, Clefairy, Machoke, Porygon, Dragonite, and Mewtwo.
- - Set includes limited number of Pokemon.
- - Uncertain how they were printed (hopefully someone who owns one can reach out)
- - Illustrations TBD
- - Artwork remains near complete (full illustration and background)
- - Cards are in color (background of card is a solid color)
- - Back of the card has a low-res, but colored version of the Pocket Monsters back design.
- - Some Pokedex numbers may be wrong. Charizard for example shows incorrectly as No.005.
+
 <div style="display: flex; gap: 10px;">
     <img src="images/AlphaPresentation.webp" alt="Alpha Presentation - Front" style="width: 48%;">
     <img src="images/AlphaPresentation_R.webp" alt="Alpha Presentation - Back" style="width: 48%;">
 </div>
 
+ - Set includes limited number of Pokemon.
+ - Uncertain how they were printed (hopefully someone who owns one can reach out)
+ - Illustrations by Ken Sugimori
+ - Artwork has full character and background
+ - Cards are in color (background of card is a solid color)
+ - Energies finally have symbols in the attack area.
+ - Back of the card has a low-res, but colored version of the Pocket Monsters back design.
+ - Some Pokedex numbers may be wrong. Charizard for example shows incorrectly as No.005.
+
 ---
 
 ## Beta Presentation (1996)
 The Beta Presentation cards appear to be the rarest of all the pre-release cards and are believed to be the cards form the early previews of the Pokemon TCG in the Corocoro magazine.
- - Only three Pokemon are graded or known to exist publically: 1 Charizard, 1 Clefairy, and 1 Mewtwo.
- - Uncertain how they were printed (if someone owns of of these, please reach out)
- - Illustrations TBD
- - Artwork remains near complete (full illustration and background)
- - Cards are no longer a single color and instead have a patterned background like you see on the officially released cards.
- - There is no back on these cards. It is just solid white.
- - Charizard's Pokedex number is finally corrected to No.006
+
 <div style="display: flex; gap: 10px;">
     <img src="images/BetaPresentation.webp" alt="Beta Presentation - Front" style="width: 48%;">
     <img src="images/BetaPresentation_R.webp" alt="Beta Presentation - Back" style="width: 48%;">
 </div>
+
+ - Only three Pokemon are graded or known to exist publically: 1 Charizard, 1 Clefairy, and 1 Mewtwo.
+ - Uncertain how they were printed (if someone owns of of these, please reach out)
+ - Illustrations by Ken Sugimori
+ - Artwork has full character and background
+ - Cards are no longer a single color and instead have a patterned background like you see on the officially released cards.
+ - Energies also have symbols in the attack area.
+ - There is no back on these cards. It is just solid white.
+ - Everything looks clearer and more bold (including text).
+ - Charizard's Pokedex number is finally corrected to No.006
 
 ---
 ## Wrap Up
