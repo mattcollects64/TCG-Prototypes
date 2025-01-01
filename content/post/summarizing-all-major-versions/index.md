@@ -5,10 +5,10 @@ slug: summarizing-all-major-versions
 date: 2024-11-10 00:00:00+0000
 image: cover.webp
 categories:
-    - PreRelease
+    - Pokemon TCG Prototypes
 tags:
-    - PreRelease
-weight: 1       # You can add weight to some posts to override the default sorting (date descending)
+    - Prototypes
+#weight: 1       # You can add weight to some posts to override the default sorting (date descending)
 ---
 
 For now, I have no intention of going into the history of who released these cards to the public and how they were verified as authentic. This has already been covered by many people like CGC cards, but I could write a post in the future if needed.
